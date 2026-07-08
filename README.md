@@ -1,6 +1,6 @@
 # Robert H. Alexander
 
-Developer at CurbSoftware. 2 decades of experience across a broad range of development, risk management, and devops roles and responsibilities.
+Developer at CurbSoftware. Two decades of experience across a broad range of development, risk management, and devops roles and responsibilities.
 BComm, BCS, UCert RM, CRM, CIP, FCIP
 
 I build practical, production-grade software with a focus on:
