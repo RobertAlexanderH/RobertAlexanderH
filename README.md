@@ -11,3 +11,5 @@ I build practical, production-grade software with a focus on:
 
 My work emphasizes clear system boundaries, maintainable architecture,
 and solutions designed for real operational constraints.
+
+I 💚 Linux Mint.
